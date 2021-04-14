@@ -1,4 +1,4 @@
-# Swedish Translations for Admin-on-rest
+# Swedish Translations for react-admin
 
 Swedish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services. Built upon [Stefan Wallin's](https://github.com/StefanWallin) translations for admin-on-react, [aor-language-swedish](https://github.com/StefanWallin/aor-language-swedish).
 
@@ -7,7 +7,13 @@ Swedish translations for [react-admin](https://github.com/marmelab/react-admin),
 ## Installation
 
 ```sh
-npm install --save ra-language-swedish
+npm install --save @kolben/ra-language-swedish
+```
+
+or
+
+```sh
+yarn add @kolben/ra-language-swedish
 ```
 
 ## Usage
