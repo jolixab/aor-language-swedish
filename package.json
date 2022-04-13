@@ -1,6 +1,6 @@
 {
     "name": "@kolben/ra-language-swedish",
-    "version": "3.14.4",
+    "version": "4.0.0",
     "description": "Swedish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
     "repository": {
         "type": "git",
@@ -22,7 +22,7 @@
         "watch": "tsc --outDir esm --module es2015 --watch"
     },
     "dependencies": {
-        "ra-core": "^3.14.2"
+        "ra-core": "^4.0.0"
     },
     "keywords": [
         "react",
@@ -41,7 +41,8 @@
     },
     "homepage": "https://github.com/kolben/ra-language-swedish#readme",
     "devDependencies": {
-        "rimraf": "^3.0.2"
+        "rimraf": "^3.0.2",
+        "typescript": "^4.6.3"
     },
     "publishConfig": {
         "access": "public"
